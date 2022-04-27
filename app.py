@@ -5,8 +5,6 @@ import pandas as pd
 import numpy as np
 import io
 import urllib, base64
-from matplotlib import pyplot
-import matplotlib.pyplot as plt
 from math import sqrt
 import onnxruntime
 
