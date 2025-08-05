@@ -1,11 +1,6 @@
 import streamlit as st
 
-from sklearn.preprocessing import MinMaxScaler
-import pandas as pd
 import numpy as np
-import io
-import urllib, base64
-from math import sqrt
 import onnxruntime
 
 # GLOBALS 
